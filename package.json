@@ -1,0 +1,27 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server-auth -p 3001 db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilyB33/JSON_Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilyB33/JSON_Server/issues"
+  },
+  "homepage": "https://github.com/MilyB33/JSON_Server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
