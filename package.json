@@ -2,10 +2,11 @@
   "name": "json_server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "db.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server-auth -p 3001 db.json"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
