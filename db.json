@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "email": "kolejny@gmail.com",
+      "password": "$2a$10$hTK3EH.p1hTMVDH12Z3DXOjkJ.BaQ19ogspWAnpPpTLyobszBArwu",
+      "username": "kolejny",
+      "id": 3
+    },
+    {
+      "email": "inny@wp.pl",
+      "password": "$2a$10$Paiqf/fUEN/ff41jqO5SF.R8UkuxdbB2JcZFJAGseecKZS2Z4juoO",
+      "username": "jakis",
+      "id": 4
+    }
+  ],
+  "info": [
+    {
+      "likedRecipes": [
+        {
+          "id": 715392,
+          "title": "Chicken Tortilla Soup (Slow Cooker)",
+          "image": "https://spoonacular.com/recipeImages/715392-556x370.jpg"
+        },
+        {
+          "id": 716426,
+          "title": "Cauliflower, Brown Rice, and Vegetable Fried Rice",
+          "image": "https://spoonacular.com/recipeImages/716426-556x370.jpg"
+        },
+        {
+          "id": 716627,
+          "title": "Easy Homemade Rice and Beans",
+          "image": "https://spoonacular.com/recipeImages/716627-556x370.jpg"
+        },
+        {
+          "id": 729366,
+          "title": "Plantain Salad",
+          "image": "https://spoonacular.com/recipeImages/729366-556x370.jpg"
+        }
+      ],
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "likedRecipes": [
+        {
+          "id": 716627,
+          "title": "Easy Homemade Rice and Beans",
+          "image": "https://spoonacular.com/recipeImages/716627-556x370.jpg"
+        },
+        {
+          "id": 715497,
+          "title": "Berry Banana Breakfast Smoothie",
+          "image": "https://spoonacular.com/recipeImages/715497-556x370.jpg"
+        },
+        {
+          "id": 715446,
+          "title": "Slow Cooker Beef Stew",
+          "image": "https://spoonacular.com/recipeImages/715446-556x370.jpg"
+        },
+        {
+          "id": 715415,
+          "title": "Red Lentil Soup with Chicken and Turnips",
+          "image": "https://spoonacular.com/recipeImages/715415-556x370.jpg"
+        },
+        {
+          "id": 715769,
+          "title": "Broccolini Quinoa Pilaf",
+          "image": "https://spoonacular.com/recipeImages/715769-556x370.jpg"
+        }
+      ],
+      "userId": 4,
+      "id": 4
+    }
+  ]
+}
